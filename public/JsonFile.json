@@ -1,0 +1,104 @@
+[
+    {
+      "id": 1,
+      "image": "https://i.ibb.co.com/D4hknMs/DALL-E-2024-11-19-23-20-20-A-professional-and-inviting-scene-depicting-a-career-counseling-session-A.webp",
+      "serviceName": "Career Planning",
+      "category": "Career",
+      "pricing": "$50/session",
+      "counselorName": "Dr. John Doe",
+
+      "Details": "Career planning is the process of setting career goals and developing strategies to achieve them. It involves understanding your interests, skills, values, and aspirations and aligning them with suitable career opportunities. The process often includes self-assessment, exploring potential career paths, gaining necessary skills or education, and setting short-term and long-term objectives.",
+
+      "learnMore": "/services/career-planning",
+      "rating": 4.8
+    },
+    {
+      "id": 2,
+      "image": "https://i.ibb.co.com/qpGB63K/DALL-E-2024-11-19-23-22-04-A-serene-and-academic-setting-depicting-a-counseling-session-for-academic.webp",
+      "serviceName": "Academic Guidance",
+      "category": "Education",
+      "pricing": "$40/session",
+      "counselorName": "Ms. Jane Smith",
+      "Details": "Academic guidance refers to the support and advice provided to students to help them achieve their educational goals. It involves mentoring, counseling, and providing resources to navigate academic challenges, select suitable courses, and plan a successful learning journey. Academic guidance is essential for fostering a student's intellectual, personal, and professional growth.",
+      "learnMore": "/services/academic-guidance",
+      "rating": 4.7
+    },
+    {
+      "id": 3,
+      "image": "https://i.ibb.co.com/VJyvmNh/DALL-E-2024-11-19-23-52-44-A-professional-setting-depicting-an-interview-preparation-session-The-cou.webp",
+      "serviceName": "Interview Preparation",
+      "category": "Job",
+      "pricing": "$60/session",
+      "counselorName": "Mr. James Brown",
+      "Details": "Interview preparation is the process of equipping oneself with the knowledge, skills, and confidence to excel in a job or academic interview. It involves researching the role, organization, or institution, understanding the expectations, and practicing effective communication techniques.",
+      "learnMore": "/services/interview-prep",
+      "rating": 4.9
+    },
+    {
+      "id": 4,
+      "image": "https://i.ibb.co.com/zSpKCvb/20221209-164626.jpg",
+      "serviceName": "Study Abroad Counseling",
+      "category": "Education",
+      "pricing": "$80/session",
+      "counselorName": "Dr. Emily White",
+      "Details": "Study abroad counseling involves guiding students through the process of pursuing education in a foreign country. It helps students explore academic opportunities, choose the right program, and navigate the complexities of applying to international institutions. Study abroad counseling ensures that students make informed decisions about their education, career, and life goals.",
+      "learnMore": "/services/study-abroad",
+      "rating": 4.6
+    },
+    {
+      "id": 5,
+      "image": "https://i.ibb.co.com/gm0NtQM/XE2qr-Bdwg-ZUWq-DV47-JZi-Qm-H89-Eg2-SN1702132368.png",
+      "serviceName": "Skill Development",
+      "category": "Training",
+      "pricing": "$70/session",
+      "counselorName": "Mr. Mark Green",
+      "Details": "Skill development is the process of identifying, acquiring, and refining abilities needed to perform tasks effectively and excel in personal, academic, or professional domains. It focuses on enhancing both hard skills (technical abilities) and soft skills (interpersonal and emotional competencies) to stay competitive in an ever-evolving world.",
+      "learnMore": "/services/skill-development",
+      "rating": 4.5
+    },
+    {
+      "id": 6,
+      "image": "https://i.ibb.co.com/JKhG3X9/TCE-Blog-Post-Image-Resume-Building-100.jpg",
+      "serviceName": "Resume Building",
+      "category": "Job",
+      "pricing": "$30/session",
+      "counselorName": "Ms. Rachel Blue",
+      "Details": "Resume building is the process of creating a concise and compelling document that highlights an individual’s skills, experiences, and achievements to make a strong impression on potential employers. A well-crafted resume serves as a personal marketing tool, tailored to showcase qualifications relevant to a specific job or career goal.",
+      "learnMore": "/services/resume-building",
+      "rating": 4.3
+    },
+    {
+      "id": 7,
+      "image": "https://i.ibb.co.com/1v1m9JT/coaching-biznesowy-rola-coachingu-w-rozwoju-przedsiebiorczosci-800x694.webp",
+      "serviceName": "Entrepreneurship Coaching",
+      "category": "Business",
+      "pricing": "$90/session",
+      "counselorName": "Mr. Alex Johnson",
+      "Details": "Entrepreneurship coaching is a personalized process designed to guide individuals in developing the skills, mindset, and strategies necessary to start, grow, and sustain a successful business. It involves providing mentorship, insights, and tools to navigate the challenges of entrepreneurship, identify opportunities, and achieve business goals.",
+      "learnMore": "/services/entrepreneurship-coaching",
+      "rating": 4.9
+    },
+    {
+      "id": 8,
+      "image": "https://i.ibb.co.com/HYX0vCx/image3-4.webp",
+      "serviceName": "Public Speaking Skills",
+      "category": "Training",
+      "pricing": "$65/session",
+      "counselorName": "Ms. Clara Green",
+      "Details": "Public speaking skills refer to the ability to effectively communicate with an audience, conveying ideas clearly and engagingly. These skills are essential for presenting information, influencing opinions, and motivating action in various professional, academic, and social settings. Good public speaking combines verbal communication, non-verbal cues, and emotional intelligence to establish a connection with the audience.",
+      "learnMore": "/services/public-speaking",
+      "rating": 4.7
+    },
+    {
+      "id": 9,
+      "image": "https://i.ibb.co.com/pjxR8sN/images-2.jpg",
+      "serviceName": "Time Management Training",
+      "category": "Wellness",
+      "pricing": "$45/session",
+      "counselorName": "Mr. Nathan Grey",
+      "Details": "Time management training involves learning how to efficiently organize and plan time to increase productivity and reduce stress. It helps individuals prioritize tasks, set realistic goals, and make the most of the available time. Effective time management is essential for achieving both personal and professional goals and maintaining a balanced life.",
+      "learnMore": "/services/time-management",
+      "rating": 4.4
+    }
+  ]
+  
